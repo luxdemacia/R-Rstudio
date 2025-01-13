@@ -28,3 +28,10 @@ sudo apt-get update
 sudo apt-get install libcurl4-openssl-dev
 ```
 Vérifiez à nouveau dans Tools, Globa Option (votre compte apparaîtra).
+
+## Définissez vos raccourcis:
+Par défaut "Effacer console" ---> "Cntrl+L"
+Voir le doc.
+```
+https://www.r-project.org/other-docs.html
+```
